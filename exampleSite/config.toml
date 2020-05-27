@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://dreamy-lovelace-6b0b01.netlify.app/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme = "restaurant-hugo"
