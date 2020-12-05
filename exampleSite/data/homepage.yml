@@ -7,7 +7,7 @@ hero_area:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "JASA UTAMA"
+  title : "FEATURED WORKS"
   images:
     - "images/slider/slider-img-1.jpg"
     - "images/slider/slider-img-2.jpg"
@@ -25,7 +25,7 @@ about:
   title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
   
-################# Blog #######################
+################# Blog ######################
 blog:
   enable : true
   title : "Our Latest <span>Blog</span>"
@@ -38,14 +38,13 @@ pricing:
   enable : true
   title : "Our Easy <span>PRICE</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "JASA UTAMA KAMI"
+  subtitle : "FEATURED ON THE WEEK"
   pricing_item:
-
   - title: "Pancakes n' Such Titas"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 125.00"
 
- - title: "Caesar Salad"
+  - title: "Caesar Salad"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 100.00"
 
