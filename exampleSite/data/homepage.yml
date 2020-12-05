@@ -25,7 +25,7 @@ about:
   title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
   
-################# Blog ######################
+################# Blog ##6####################
 blog:
   enable : true
   title : "Our Latest <span>Blog</span>"
@@ -43,8 +43,10 @@ pricing:
   - title: "Pancakes n' Such Titas"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 125.00"
-
-  - title: "Caesar Salad"
+    images:
+    - "images/slider/slider-img-1.jpg"
+ 
+ - title: "Caesar Salad"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 100.00"
 
@@ -62,7 +64,7 @@ pricing:
 
 ################### Subscription ################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/subscribe-bg.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
@@ -73,7 +75,7 @@ subscription:
 
 ################ Contact #######################
 contact:
-  enable : true
+  enable : false
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   form_action : "#" #contact form works with formspree.io
