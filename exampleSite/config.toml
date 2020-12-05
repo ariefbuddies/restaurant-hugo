@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://dreamy-lovelace-6b0b01.netlify.app/"
+baseURL = "https://stupefied-montalcini-076503.netlify.app/"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "RestaurantHug"
 theme = "restaurant-hugo"
 summaryLength = "7"
 paginate = 6
