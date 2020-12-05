@@ -62,7 +62,7 @@ pricing:
 
 ################### Subscription ################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/subscribe-bg.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
@@ -73,7 +73,7 @@ subscription:
 
 ################ Contact #######################
 contact:
-  enable : true
+  enable : false
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   form_action : "#" #contact form works with formspree.io
