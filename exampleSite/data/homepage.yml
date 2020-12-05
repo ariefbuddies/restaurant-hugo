@@ -43,8 +43,7 @@ pricing:
   - title: "Pancakes n' Such Titas"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 125.00"
-    images:
-    - "images/slider/slider-img-1.jpg"
+    image : "images/slider/slider-img-1.jpg"
  
  - title: "Caesar Salad"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
