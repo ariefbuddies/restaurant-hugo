@@ -38,6 +38,7 @@ pricing:
   enable : true
   title : "Harga Termurah <span>KAMI</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+  bg_image : "images/subscribe-bg.jpg"
   subtitle : "FEATURED ON MINGGU INI"
   pricing_item:
   - title: "Pancakes n' Such Titas"
@@ -46,20 +47,19 @@ pricing:
 
   - title: "Caesar Salad"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+    price : "Rp. 100.00"
 
   - title: "Steak with a Garlic and Parsley Risotto"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+    price : "Rp. 20.00"
 
   - title: "Meat of Skewers"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
+    price : "Rp. 45.00"
 
   - title: "Pancakes n' Such"
-    bg_image : "images/subscribe-bg.jpg"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
+    price : "Rp. 25.00"
 
 ################### Subscription ################
 subscription:
