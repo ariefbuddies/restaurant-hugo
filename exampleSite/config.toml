@@ -1,5 +1,5 @@
 baseURL = "https://stupefied-montalcini-076503.netlify.app/"
-languageCode = "en-us"
+languageCode = "en-id"
 paginate = 6
 summaryLength = "7"
 theme = "restaurant-hugo"
@@ -7,10 +7,6 @@ title = "RestaurantHug"
 [[menu.main]]
 URL = "contact-us"
 name = "Kontak Kita"
-weight = 6
-[[menu.main]]
-URL = "subscribe"
-name = "News"
 weight = 5
 [[menu.main]]
 URL = "price"
@@ -29,7 +25,7 @@ URL = "hero-area"
 name = "Home"
 weight = 1
 [params]
-author = "Themefisher"
+author = "AriefBHug"
 copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com"
 description = "This is meta description"
 google_analitycs_id = "Your ID"
