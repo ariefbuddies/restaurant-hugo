@@ -27,7 +27,7 @@ about:
   
 ################# Blog ######################
 blog:
-  enable : true
+  enable : false
   title : "Our Latest <span>Blog</span>"
   bg_image : "images/blog/blog-bg.jpg"
   overlay : true
