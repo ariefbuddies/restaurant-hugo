@@ -35,10 +35,9 @@ blog:
 
 ################# food Menu ################
 pricing:
-  enable : true
+  enable : false
   title : "Harga Termurah <span>KAMI</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  image : "images/cooker-img.png"
   subtitle : "FEATURED ON MINGGU INI"
   pricing_item:
   - title: "Pancakes n' Such Titas"
